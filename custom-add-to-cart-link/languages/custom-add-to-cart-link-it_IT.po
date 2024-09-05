@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Add to Cart Link\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-04 20:19+0000\n"
+"PO-Revision-Date: 2024-09-04 20:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italiano\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: custom-add-to-cart-link"
+
+#. Author of the plugin
+msgid "Abraham Bronstein"
+msgstr ""
+
+#. Name of the plugin
+#: custom-add-to-cart-link.php:20
+msgid "Custom Add to Cart Link"
+msgstr "Collegamento personalizzato Aggiungi al carrello"
+
+#: custom-add-to-cart-link.php:29
+msgid "Custom Button Text"
+msgstr "Testo del pulsante personalizzato"
+
+#: custom-add-to-cart-link.php:23
+msgid "Introduce el enlace que reemplazará el botón \"Agregar al carrito\"."
+msgstr "Inserisci il link che sostituirà il pulsante \"Aggiungi al carrello\"."
+
+#: custom-add-to-cart-link.php:32
+msgid "Introduce el texto que aparecerá en lugar de \"Agregar al carrito\"."
+msgstr "Inserisci il testo che apparirà al posto di \"Aggiungi al carrello\"."
+
+#. Description of the plugin
+msgid ""
+"Reemplaza el botón \"Agregar al carrito\" por un enlace personalizado en "
+"WooCommerce."
+msgstr ""
+"Sostituisci il pulsante \"Aggiungi al carrello\" con un collegamento "
+"personalizzato in WooCommerce."
+
+#: custom-add-to-cart-link.php:30
+msgid "Ver más"
+msgstr "Vedi di più"
